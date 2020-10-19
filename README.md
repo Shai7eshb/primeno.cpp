@@ -1,2 +1,2 @@
 # primeno.cpp
-check whether a number can be expressed as a sum of two prime numbers
+Check whether sum of two numbers is prime or not
